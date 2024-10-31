@@ -41,7 +41,7 @@ public class Retangulo extends Figura{
 
     @Override
     public String toString() {
-        return "\nRetangulo:" +
+        return 
                 super.toString()+
                 "\nLado1:" + lado1 + 
                 "\nLado2:" + lado2 +
